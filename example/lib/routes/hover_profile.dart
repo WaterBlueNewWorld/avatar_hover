@@ -45,7 +45,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   Color(0xFFFFBF00),
                   Color(0xFF00FF0C),
                 ]
-            ).avatar(),
+            ),
             const SizedBox(
               width: 16
             ),
